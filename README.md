@@ -18,7 +18,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saadraza62186&show_icons=true&theme=dark&bg_color=0d1117" height="140"/>
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saadraza62186&theme=dark" height="140"/>
 </p>
 
 ---
