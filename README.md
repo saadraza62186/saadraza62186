@@ -27,9 +27,6 @@
 | Project | Tech Stack | What Makes It Stand Out |
 |---------|------------|--------------------------|
 | **Travelphoria** | MERN, REST APIs, Booking API, AI Suggestions | Full travel planner; hotel/restaurant integration; hotel-owner & admin request approvals |
-| **Project Two** | React + Node | [Insert your second project description here] |
-| **Project Three** | Full Stack | [Insert your third project here] |
-
 ---
 
 ### 🌍 About Me  
