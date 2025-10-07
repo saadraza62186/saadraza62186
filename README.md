@@ -27,6 +27,9 @@
 | Project | Tech Stack | What Makes It Stand Out |
 |---------|------------|--------------------------|
 | **Travelphoria** | MERN, REST APIs, Booking API, AI Suggestions | Full travel planner; hotel/restaurant integration; hotel-owner & admin request approvals |
+| **Meltem sea food** | Next, REST APIs, E-Commerce, | Next.js based e-commerce web app with REST APIs, booking system, AI dish suggestions, and admin dashboard|
+| **Guest Post Galaxy** | Next, REST APIs, Blog Web, | Next.js powered blogging platform with REST APIs, dynamic post management, admin dashboard.|
+
 ---
 
 ### 🌍 About Me  
